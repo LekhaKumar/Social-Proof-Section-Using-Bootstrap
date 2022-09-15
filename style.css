@@ -1,3 +1,20 @@
+/* Background image for the body element */
+body{
+  background-image: -webkit-cross-fade(url("images/bg-pattern-top-desktop.svg"), url("images/bg-pattern-bottom-desktop.svg"), 25%);
+  background-image: cross-fade(url("images/bg-pattern-top-desktop.svg"), url("images/bg-pattern-bottom-desktop.svg"), 25%);
+
+}
+
+
+
+
+
+
+
+
+
+
+/* footer */
 .attribution {
   font-size: 11px;
   text-align: center;
