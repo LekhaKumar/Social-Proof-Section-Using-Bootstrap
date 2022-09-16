@@ -5,14 +5,63 @@ body{
 
 }
 
+/* Styling for the first row which encompass the heading and rating */
+
 .heading, .rating{
-  padding: 10% 5% 10% 5%;
+  padding: 5% 5% 5% 5%;
 }
 
+.rate{
+  margin-bottom: 20px;
+  display: block;
+  width: 400px;
 
+}
 
+.rate-description{
+  display: inline;
+  padding-left: 25px;
+}
 
+.rating_1{
+  position: relative;
+}
 
+.rating_2{
+  position: relative;
+  left: 35px;
+}
+
+.rating_3{
+  position: relative;
+  left: 70px;
+}
+/* Styling for the review row */
+
+.review-section{
+  padding: 0% 5% 5% 5%;
+}
+
+.review{
+  display: inline-block;
+  width: 350px;
+  height: 300px;
+  margin-left: 20px;
+}
+
+.review_1{
+  position: relative;
+}
+
+.review_2{
+  position: relative;
+  top: 25px;
+}
+
+.review_3{
+  position: relative;
+  top: 50px;
+}
 
 
 
