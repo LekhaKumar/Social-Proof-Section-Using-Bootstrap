@@ -26,8 +26,8 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- HTML URL: [For complete HTML](https://github.com/LekhaKumar/Social-Proof-Section-Using-Bootstrap/blob/main/index.html)
+- CSS URL: [For complete CSS](https://github.com/LekhaKumar/Social-Proof-Section-Using-Bootstrap/blob/main/style.css)
 
 ## My process
 I used flexbox component to build the structure for mobile view, card components from Bootstrap 5 to build the rating and review sections and grid system from Bootstrap 5 to create two rows. Furthermore, I used @media for responsive design to switch between different background images.
@@ -64,7 +64,6 @@ Through this learning process, I can confidently implement Flexbox and Grid syst
 
 - Frontend Mentor - [@LekhaKumar](https://www.frontendmentor.io/profile/LekhaKumar)
 - Twitter - [@Hamsalekha26](https://www.twitter.com/@Hamsalekha26)
-- Linkedin - [[Hamsalekha A Kumaresan](https://www.linkedin.com/in/hamsalekha-a-kumaresan-5b0676207/)]
+- Linkedin - [Hamsalekha A Kumaresan](https://www.linkedin.com/in/hamsalekha-a-kumaresan-5b0676207/)]
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
