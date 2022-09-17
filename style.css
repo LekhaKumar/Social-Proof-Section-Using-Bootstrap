@@ -260,8 +260,9 @@ body{
   margin-right: 20px;
 }
 
-.fa-star{
-  color: orange;
+.star-rating{
+  margin: 0;
+  padding:0;
 }
 
 .rate-description{
